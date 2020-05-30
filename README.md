@@ -1,2 +1,2 @@
 # LockerSystem
-A Java Client Server and Java Web Locker System 
+A Client Server and Web Locker System (Java)
