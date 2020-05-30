@@ -1,2 +1,2 @@
 # LockerSystem
-A Java and Web Locker System 
+A Java and Java Web Locker System 
